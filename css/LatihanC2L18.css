@@ -1,0 +1,68 @@
+h2 {
+    color: #03AC0E;
+    text-align: center;
+}
+
+li p{
+    margin: 0;
+    padding: 0;
+}
+
+.list-parent {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.kategori {
+    width: 46%;
+    float: left;
+    border: 1px solid #212462;
+    margin: 0 10px;
+    padding: .3rem;
+    margin-bottom: 1rem;
+}
+
+.list-makanan {
+    margin: 20px 0;
+}
+
+.kategori h4 {
+    text-align: center;
+}
+
+.square {
+    list-style-type: square;
+}
+
+.upper-roman {
+    list-style-type: upper-roman;
+}
+
+.lower-alpha {
+    list-style-type: lower-alpha;
+}
+
+.custom {
+    list-style-image: url("../images/sqpurple.gif");
+}
+
+img {
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+
+.button {
+    width: 100%;
+    background-color: #03AC0E;
+    display: inline-block;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.button:hover{
+    background-color: #12883D;
+}
